@@ -33,8 +33,8 @@ SET id_product = '%s', title = '%s', price = '%f', rating = '%f', url = '%s', pr
 WHERE id_product = '%s' ; 
 '''
 
-SENDER_EMAIL = "paulotadeubrodrigues@gmail.com"
-RECEIVERS_EMAIL = ["paulotadeubrodrigues@gmail.com"]
+SENDER_EMAIL = "myemail@gmail.com"
+RECEIVERS_EMAIL = ["myemails@gmail.com"]
 PASSWORD_EMAIL = ""
 
 RECEIVERS_WHATSAPP = ["me"]
