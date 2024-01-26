@@ -35,6 +35,6 @@ WHERE id_product = '%s' ;
 
 SENDER_EMAIL = "paulotadeubrodrigues@gmail.com"
 RECEIVERS_EMAIL = ["paulotadeubrodrigues@gmail.com"]
-PASSWORD_EMAIL = "tknm awjz efyk pjeq"
+PASSWORD_EMAIL = ""
 
 RECEIVERS_WHATSAPP = ["me"]
