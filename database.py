@@ -66,7 +66,7 @@ class DatabaseMercadoLivre:
             
             cnx = mysql.connector.connect(host='localhost', 
                                           user='root', 
-                                          password='Windows10+', 
+                                          password='secret', 
                                           port=3306)
             
         
@@ -101,7 +101,7 @@ class DatabaseMercadoLivre:
             
             cnx = mysql.connector.connect(host='localhost', 
                                           user='root', 
-                                          password='Windows10+', 
+                                          password='secret', 
                                           database='mercadolivre', 
                                           port=3306)
             
@@ -134,7 +134,7 @@ class DatabaseMercadoLivre:
         try:
             cnx = mysql.connector.connect(host='localhost', 
                                           user='root', 
-                                          password='Windows10+', 
+                                          password='secret', 
                                           database='mercadolivre', 
                                           port=3306)
             
